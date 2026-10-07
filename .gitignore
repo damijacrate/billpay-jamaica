@@ -1,0 +1,6 @@
+.env
+billpay.db
+node_modules/
+index.local.js
+database.local.js
+billpay.log
